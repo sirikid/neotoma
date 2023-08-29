@@ -11,3 +11,4 @@ neotoma.plt
 /doc/
 /rebar.lock
 test_parser.*
+test_p_charclass_brackets.*
